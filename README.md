@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Camila
-- 👀 I’m interested in learning programmming
+- 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Python and JavaScript
 
 
