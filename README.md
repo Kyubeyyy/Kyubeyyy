@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kyubeyyy
+- 👋 Hi, I’m Camila
 - 👀 I’m interested in learning programmming
 - 🌱 I’m currently learning Python and JavaScript
 
